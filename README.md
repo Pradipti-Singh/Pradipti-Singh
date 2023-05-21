@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently persuing my BeCSE degree from SATHYABAMA UNIVERSITY
-- 🌱 I’m currently learning PYTHON
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me: krpradiptisingh.2016@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: can motivate anybody
