@@ -15,3 +15,4 @@
 
 <br>
 <img src = "https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47ieo7wowx18b6g0djytxt1y03c67q5c9bymbzei0n&rid=giphy.gif&ct=g" alt="codinggirl">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pradipti-Singh&label=Profile%20views&color=0e75b6&style=flat" alt="Pradipti-Singh" /> </P>
