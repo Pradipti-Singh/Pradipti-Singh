@@ -1,11 +1,16 @@
 ### Hi there 👋
-
+<img src=" "
 - 🔭 I’m currently pursuing my BeCSE degree from SATHYABAMA UNIVERSITY
 - 🌱 I’m currently learning JAVA
 - 📫 How to reach me: krpradiptisingh.2016@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: can motivate anybody
--->  
+
+
+
+https://github.com/Pradipti-Singh/Pradipti-Singh/assets/91623073/623e826d-0a33-4ee2-bad9-db3a65bdf8c3
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pradipti-Singh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
