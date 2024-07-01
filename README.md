@@ -5,8 +5,6 @@
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pradipti-Singh&show_icons=true&theme=radical" alt ="Pradipti">
  <br>
- <br>
- <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradipti-Singh&layout=compact">
 </p>
 <br>
 
