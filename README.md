@@ -1,5 +1,6 @@
 ### Hi there 👋
-![White Minimalist Corporate Business Personal Profile LinkedIn Banner](https://github.com/Pradipti-Singh/Pradipti-Singh/assets/91623073/27e9f1c3-4537-4dd1-ace4-c43db6324cec)
+![Cream and Gray Abstract Personal LinkedIn Article Cover Image](https://github.com/user-attachments/assets/a8cc3960-ce9e-49d0-97c7-63f80e99d7dd)
+](https://github.com/Pradipti-Singh/Pradipti-Singh/assets/91623073/27e9f1c3-4537-4dd1-ace4-c43db6324cec)
 <br>
 <br>
 <p align="center">
